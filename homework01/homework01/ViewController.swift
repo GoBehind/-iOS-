@@ -52,18 +52,45 @@ class ViewController: UIViewController {
         
 //        第四題
         let 共幾層 = 5
-        var f = 1
+        var X = 1
         var be : Int
-        var 空白個數 :Int
+        var 空白個數 : Int
         var 葉子個數 : Int
         be = 1
         
-        空白個數 = 4
-        葉子個數 = 4
-        while be <= 9 {
-            f = 1
+        空白個數 = 共幾層 - 1
+        葉子個數 = 1
+        while be <= 共幾層
+        {
+            X = 1
+            while X <= 空白個數
+            {
+                print(" " , terminator:"" )
+                X += 1 // 遞增 X 相當於 X = X + 1
+            }
+            X = 1
+            while X <= 葉子個數
+            {
+                print("*" , terminator:"" )
+                X += 1 // 遞增 X 相當於 X = X + 1
+            }
+            X = 1
+            while X <= 1
+            {
+                print("\n" , terminator:"" )
+                X += 1 // 遞增 X 相當於 X = X + 1
+            }
             
+            空白個數 -= 1
+            葉子個數 += 2
             
+            be += 1
+        }
+        
+        var h = 0
+        while h <= 1 {
+            print("   ***")
+            h += 1
         }
         
     }
