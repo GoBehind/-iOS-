@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FEBD9DB-F5F1-4A10-A433-ED9B671D8729"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B07556BB-CFD9-430A-9035-2E8513585E47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mar31_2_2020/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B07556BB-CFD9-430A-9035-2E8513585E47 - 60452417f1b6cafe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mar31_2_2020.ViewController.__deallocating_deinit"
+                  moduleName = "mar31_2_2020"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangkuanchih/Desktop/%E4%B8%8A%E8%AA%B2%E7%94%A8/mar31_2_2020/mar31_2_2020/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B07556BB-CFD9-430A-9035-2E8513585E47 - ed928a4087d0b68b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mar31_2_2020.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; mar31_2_2020.ViewController"
+                  moduleName = "mar31_2_2020"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangkuanchih/Desktop/%E4%B8%8A%E8%AA%B2%E7%94%A8/mar31_2_2020/mar31_2_2020/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B07556BB-CFD9-430A-9035-2E8513585E47 - fe0623d4334110fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mar31_2_2020.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; mar31_2_2020.ViewController"
+                  moduleName = "mar31_2_2020"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangkuanchih/Desktop/%E4%B8%8A%E8%AA%B2%E7%94%A8/mar31_2_2020/mar31_2_2020/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  uuid = "B07556BB-CFD9-430A-9035-2E8513585E47 - 35982524d458b315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mar31_2_2020.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;mar31_2_2020.ViewController&gt;"
+                  moduleName = "mar31_2_2020"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangkuanchih/Desktop/%E4%B8%8A%E8%AA%B2%E7%94%A8/mar31_2_2020/mar31_2_2020/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B07556BB-CFD9-430A-9035-2E8513585E47 - 10d6624d1adc6ae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mar31_2_2020.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;mar31_2_2020.ViewController&gt;"
+                  moduleName = "mar31_2_2020"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangkuanchih/Desktop/%E4%B8%8A%E8%AA%B2%E7%94%A8/mar31_2_2020/mar31_2_2020/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
